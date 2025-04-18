@@ -1,4 +1,4 @@
-! [logo] (https://github.com/Ritesh9140/Ritesh9140/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png) 
+![logo](https://github.com/Ritesh9140/Ritesh9140/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png) 
 
 <h1 align="center">Hi 👋, I'm Ritesh Kumar Singh</h1>
 <h3 align="center">A passionate frontend developer,Backend developer and Full Sa from India</h3>
