@@ -1,7 +1,7 @@
 ![logo](https://github.com/Ritesh9140/Ritesh9140/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png) 
 
 <h1 align="center">Hi 👋, I'm Ritesh Kumar Singh</h1>
-<h3 align="center">A passionate frontend developer,Backend developer and Software Developer from India</h3>
+<h3 align="center">A passionate frontend developer, Backend developer and Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh9140&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh9140" /> </p>
 
